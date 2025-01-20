@@ -1,24 +1,22 @@
-**Database Name: ofbsphp**
+# Online Flight Booking Management System
 
-**Recommended PHP Version 5.6, 7.4**
+## Database Details
+- **Database Name**: ofbsphp
 
+## Recommended PHP Version
+- PHP 5.6 or 7.4
 
-**Admin Login Details**
+## Admin Login Details
+- **Username**: admin
+- **Password**: codeastro.com
 
-Username: admin
-Password: codeastro.com
+## System Requirements
+- **Required PHP Version**: >= 7.4
 
+==================================================
+This is a modified version of the Online Flight Booking Management System. The project encountered some issues when running with PHP v8.1 and MariaDB 10.24. Most modifications and improvements have been focused on the front-end (UI/UX). Some backend script changes have also been implemented to ensure better compatibility.
 
-# **Online Flight Booking Management System**
-
-## Required PHP Version: >= 7.4
-
-=================================================
-This is a modified copy. Some error occurred while running the project using PHP v8.1 and MariaDB 10.24.
-Modifcations and changes are mostly done on the front-end side (UI/UX)
-Backend Script Modification has been done also.
-
-=================================================
-## **Default Admin Access**
-**username: admin**
-**password: admin123**
+==================================================
+## Default Admin Access
+- **Username**: admin
+- **Password**: admin123
